@@ -34,6 +34,8 @@ class About extends Me
 
 ?>
 ```
+## Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juano1123&count_private=true&show_icons=true&theme=dark)
 
 ## Find me around the web 🌎:
 
