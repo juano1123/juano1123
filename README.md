@@ -26,8 +26,7 @@ class About extends Me
           Javascript::class,
           Laravel::class,
           ReactJs::class,
-          NodeJs::class,
-          Angular::class
+          NodeJs::class
       ];
   }
 }
