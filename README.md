@@ -1,6 +1,6 @@
 ## 👋 Hi everyone!
 
-My name is Juan Andrés Vega, I'm 27 years old. I'm a Software Developer graduated from UTEC.
+My name is Juan Andrés Vega, I'm 29 years old. I'm a Software Developer graduated from UTEC.
 
 ```php
 <?php
